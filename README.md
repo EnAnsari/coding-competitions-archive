@@ -1,5 +1,7 @@
 # coding-competitions-archive
+[![fa](https://img.shields.io/badge/language-Persian-blue.svg)](https://github.com/EnAnsari/coding-competitions-archive/blob/main/docs/fa/readme.md)
 [![volume](https://img.shields.io/badge/download_zip-1GB<-red.svg)](https://github.com/EnAnsari/coding-competitions-archive/archive/refs/tags/1.0.0.zip)
+
 
 This repository contains an archive of competition problems for
 Coding Competitions, Google-organized programming competitions. 
